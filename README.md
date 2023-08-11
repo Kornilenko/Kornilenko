@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kornilenko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Anatoliy
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning create website with zero.
+- 💞️ I’m looking to collaborate on create and development web application.
+- 📫 How to reach me: E-Mail - pandolikofficial@gmail.com
 
 <!---
 Kornilenko/Kornilenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
